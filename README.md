@@ -30,7 +30,18 @@ The result should be that all files associated with each EOS spine scan for a pa
 This program would direct the users to specify the parent folder where the user has saved all reports, and the output folder file path where users would like the aggregated data to be saved. It is notable that the output folder should be outside of the parent folder. Once the input and output file locations have been specified, the program would aggregate all data into a single file “MergedData_YYYYMMDD.xlsx” in the assigned output folder, where the “YYYYMMDD” corresponds to the date that the CODESNAME was run.  
 
 ## Results
-The aggregated data were color coded by patient information (Patient ID and Visit date, specified by the folder names). Collected measurements were renamed using the abbreviation of the EOS Advanced Spine Workflow .xlsx file table headers as below.
+The aggregated data were color coded by patient information (Patient ID and Visit date, specified by the folder names). Collected measurements were renamed using the abbreviation of the EOS Advanced Spine Workflow .xlsx file table headers as below. Specifically, PP indicates “Patient Plane” and RP means “Radio Plane”.
 
-
+Tables | Variable Names | Measurements
+Basic Information | Patient ID | Patient ID, pecified by the folder names
+ | Visit Date | Visit date, specified by the folder names
+Scoliosis parameters | LumbarCobb | Cobb angle of lumbar scoliosis parameters
+ | LumbarApex | Axial rotation of apical vertebra lumbar scoliosis
+ | MainCobb | Cobb angle of main scoliosis parameters
+ | MainApex | Axial rotation of apical vertebra main scoliosis
+ | ProximalCobb | Cobb angle of Proximal scoliosis parameters
+ | ProximalApex | Axial rotation of apical vertebra proximal scoliosis
+Sagittal balance | KyphosisXX | NEED EXPLANATION
+Vertebral orientations | RotationXXPPFrontal | 
+ 
 
