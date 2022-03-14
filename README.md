@@ -33,6 +33,7 @@ This program would direct the users to specify the parent folder where the user 
 The aggregated data were color coded by patient information (Patient ID and Visit date, specified by the folder names). Collected measurements were renamed using the abbreviation of the EOS Advanced Spine Workflow .xlsx file table headers as below. Specifically, PP indicates “Patient Plane” and RP means “Radio Plane”.
 
 Tables | Variable Names | Measurements
+--- | --- | ---
 Basic Information | Patient ID | Patient ID, pecified by the folder names
  | Visit Date | Visit date, specified by the folder names
 Scoliosis parameters | LumbarCobb | Cobb angle of lumbar scoliosis parameters
