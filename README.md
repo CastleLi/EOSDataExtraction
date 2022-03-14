@@ -42,6 +42,6 @@ Scoliosis parameters | LumbarCobb | Cobb angle of lumbar scoliosis parameters
  | ProximalCobb | Cobb angle of Proximal scoliosis parameters
  | ProximalApex | Axial rotation of apical vertebra proximal scoliosis
 Sagittal balance | KyphosisXX | NEED EXPLANATION
-Vertebral orientations | RotationXXPPFrontal | 
+Vertebral orientations | RotationXX | NEED EXPLANATION
  
 
