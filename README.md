@@ -35,9 +35,9 @@ The aggregated data were color coded by patient information (Patient ID and Visi
 Tables | Variable Names | Measurements
 --- | --- | ---
 Basic Information | Patient ID | Patient ID, pecified by the folder names
-- | Visit Date | Visit date, specified by the folder names
+--- | Visit Date | Visit date, specified by the folder names
 Scoliosis parameters | LumbarCobb | Cobb angle of lumbar scoliosis parameters
-- | LumbarApex | Axial rotation of apical vertebra lumbar scoliosis
+--- | LumbarApex | Axial rotation of apical vertebra lumbar scoliosis
 - | MainCobb | Cobb angle of main scoliosis parameters
 - | MainApex | Axial rotation of apical vertebra main scoliosis
 - | ProximalCobb | Cobb angle of Proximal scoliosis parameters
