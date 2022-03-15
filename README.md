@@ -36,7 +36,7 @@ To use the CODESNAME, all EOS files for the Advanced Spine Workflow of each pati
 
 The result should be that all files associated with each EOS spine scan for a patient has its own folder, named using the date, and these are all stored within the main folder for each patient, named using the numerical patient ID (Figure 1).  Further, all patient folders for extraction should be saved within one parent folder, for example, “Test Data” as shown in Figure 1. The parent folder should not contain any other files, data, or subfolders which are not obtained from the EOS spine scan Advanced Workflow.  Empty folders should also not be saved within the parent folder. 
 
-![Figure 1](https://github.com/CastleLi/EOSDataExtraction/Figure/Fig1.PNG)
+![Figure 1](https://github.com/CastleLi/EOSDataExtraction/blob/main/Figure/Fig1.PNG)
 
 ## Data Aggregations
 Once the EOS files have been organized, the data aggregations can be conducted with the following codes:
