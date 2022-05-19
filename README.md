@@ -3,7 +3,8 @@ A program used to extract measurements from EOS spine scans
 
 # Content
 - [Introduction](#Introduction)
-  - [Setup](#Setup)
+- [Setup](#Setup)
+  - [Loading Mizzou 3D SPinE](#Loading-Mizzou-3D-SPinE)
   - [EOS File Preparation](#EOS-File-Preparation)
   - [Data Aggregations](#Data-Aggregations)
 - [Results](#Results)
